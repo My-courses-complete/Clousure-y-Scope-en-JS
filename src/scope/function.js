@@ -1,5 +1,5 @@
 const fruits = () => {
-    var fruit = 'apple'
+    fruit = 'apple'
     console.log(fruit);
 }
 
